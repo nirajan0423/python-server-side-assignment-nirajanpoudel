@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Laptop",
+        "price": 85000,
+        "quantity": 5
+    },
+    {
+        "name": "Mouse",
+        "price": 1200,
+        "quantity": 50
+    },
+    {
+        "name": "Keyboard",
+        "price": 2500,
+        "quantity": 30
+    },
+    {
+        "name": "Monitor",
+        "price": 22000,
+        "quantity": 12
+    },
+    {
+        "name": "Headphones",
+        "price": 3500,
+        "quantity": 25
+    },
+    {
+        "name": "Webcam",
+        "price": 4000,
+        "quantity": 18
+    },
+    {
+        "name": "Printer",
+        "price": 18000,
+        "quantity": 8
+    },
+    {
+        "name": "Scanner",
+        "price": 15000,
+        "quantity": 6
+    },
+    {
+        "name": "USB Drive",
+        "price": 800,
+        "quantity": 100
+    },
+    {
+        "name": "External HDD",
+        "price": 7500,
+        "quantity": 20
+    },
+    {
+        "name": "SSD 512GB",
+        "price": 6500,
+        "quantity": 35
+    },
+    {
+        "name": "Graphics Card",
+        "price": 45000,
+        "quantity": 7
+    },
+    {
+        "name": "RAM 8GB",
+        "price": 3200,
+        "quantity": 40
+    },
+    {
+        "name": "RAM 16GB",
+        "price": 6000,
+        "quantity": 28
+    },
+    {
+        "name": "Motherboard",
+        "price": 12000,
+        "quantity": 15
+    },
+    {
+        "name": "Processor i5",
+        "price": 25000,
+        "quantity": 10
+    },
+    {
+        "name": "Processor i7",
+        "price": 42000,
+        "quantity": 8
+    },
+    {
+        "name": "Power Supply",
+        "price": 5000,
+        "quantity": 22
+    },
+    {
+        "name": "Cabinet",
+        "price": 4500,
+        "quantity": 14
+    },
+    {
+        "name": "Cooling Fan",
+        "price": 900,
+        "quantity": 60
+    },
+    {
+        "name": "Router",
+        "price": 3500,
+        "quantity": 17
+    },
+    {
+        "name": "Switch",
+        "price": 2800,
+        "quantity": 13
+    },
+    {
+        "name": "LAN Cable",
+        "price": 500,
+        "quantity": 120
+    },
+    {
+        "name": "Projector",
+        "price": 55000,
+        "quantity": 4
+    },
+    {
+        "name": "Tablet",
+        "price": 30000,
+        "quantity": 9
+    },
+    {
+        "name": "Smartphone",
+        "price": 45000,
+        "quantity": 20
+    },
+    {
+        "name": "Smartwatch",
+        "price": 12000,
+        "quantity": 16
+    },
+    {
+        "name": "Speaker",
+        "price": 2500,
+        "quantity": 30
+    },
+    {
+        "name": "Microphone",
+        "price": 3200,
+        "quantity": 11
+    },
+    {
+        "name": "Tripod",
+        "price": 1800,
+        "quantity": 19
+    },
+    {
+        "name": "Camera",
+        "price": 85000,
+        "quantity": 5
+    },
+    {
+        "name": "Drone",
+        "price": 95000,
+        "quantity": 3
+    },
+    {
+        "name": "TV 43 Inch",
+        "price": 48000,
+        "quantity": 7
+    },
+    {
+        "name": "TV 55 Inch",
+        "price": 72000,
+        "quantity": 5
+    },
+    {
+        "name": "Refrigerator",
+        "price": 65000,
+        "quantity": 6
+    },
+    {
+        "name": "Washing Machine",
+        "price": 55000,
+        "quantity": 8
+    },
+    {
+        "name": "Microwave Oven",
+        "price": 15000,
+        "quantity": 10
+    },
+    {
+        "name": "Electric Kettle",
+        "price": 2500,
+        "quantity": 25
+    },
+    {
+        "name": "Water Purifier",
+        "price": 18000,
+        "quantity": 9
+    },
+    {
+        "name": "Vacuum Cleaner",
+        "price": 14000,
+        "quantity": 12
+    },
+    {
+        "name": "Air Conditioner",
+        "price": 65000,
+        "quantity": 5
+    },
+    {
+        "name": "Ceiling Fan",
+        "price": 3500,
+        "quantity": 18
+    },
+    {
+        "name": "Table Fan",
+        "price": 2200,
+        "quantity": 20
+    },
+    {
+        "name": "LED Bulb",
+        "price": 350,
+        "quantity": 200
+    },
+    {
+        "name": "Extension Board",
+        "price": 750,
+        "quantity": 55
+    },
+    {
+        "name": "Office Chair",
+        "price": 8500,
+        "quantity": 14
+    },
+    {
+        "name": "Study Table",
+        "price": 12000,
+        "quantity": 10
+    },
+    {
+        "name": "Notebook",
+        "price": 80,
+        "quantity": 500
+    },
+    {
+        "name": "Pen",
+        "price": 20,
+        "quantity": 1000
+    },
+    {
+        "name": "Marker",
+        "price": 50,
+        "quantity": 300
+    }
+]
